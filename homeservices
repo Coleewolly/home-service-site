@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Get More Jobs with a Modern Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #111827;
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+    header p {
+      font-size: 1.25rem;
+      margin: 0;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .features, .process {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    .cta {
+      text-align: center;
+      padding: 2rem;
+    }
+    .cta a {
+      background-color: #2563eb;
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.875rem;
+      color: #666;
+      padding: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Get More Jobs with a Clean, Modern Website</h1>
+    <p>Built for local electricians, plumbers, and contractors</p>
+  </header>
+
+  <section class="features">
+    <div class="card">
+      <h2>✅ Look Professional</h2>
+      <p>First impressions matter — we help you look legit and earn trust online.</p>
+    </div>
+    <div class="card">
+      <h2>📞 Get More Calls</h2>
+      <p>Optimized for mobile and SEO to drive more bookings and phone calls.</p>
+    </div>
+    <div class="card">
+      <h2>⚡ Fast Delivery</h2>
+      <p>Get your site live in under 72 hours. No tech stress, we handle everything.</p>
+    </div>
+  </section>
+
+  <section class="process">
+    <h2>How It Works</h2>
+    <div class="card">
+      <strong>Step 1:</strong> You send us your info (name, service, location)
+    </div>
+    <div class="card">
+      <strong>Step 2:</strong> We build your site and show you a live preview
+    </div>
+    <div class="card">
+      <strong>Step 3:</strong> You approve it, and it goes live on your domain
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Want a Site That Gets You More Customers?</h2>
+    <p>Only $150 – ready in 72 hours.</p>
+    <a href="mailto:your@email.com">Contact Us Now</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Local Boost Websites — Helping Small Businesses Grow
+  </footer>
+</body>
+</html>
